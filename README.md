@@ -31,20 +31,49 @@ I performed analysis on columns like City, State, Temperature, start_time, and S
 
 - Top 20 cities by accident
 
+![](Screenshots/Top%2020%20cities%20by%20accident.png)
+
 More number of accidents were observed in Miami city.
 
 - Distribution of cities by accident
 
+![](Screenshots/Distribution%20of%20cities%20by%20accident.png)
+
 The number of accidents is most number of cities is low (0-2000) and in few cities the number of accidents are more.
 
 - hist plot showing more accidents occur on which day of the week.
+
+![](Screenshots/hist%20plot%20showing%20more%20accidents%20occur%20on%20which%20day%20of%20the%20week.png)
+
 More Accidents were observed on weekdays and less number of accidents on weekends.
 
 - Distribution of accidents on weekends
+
+![](Screenshots/Distribution%20of%20accidents%20on%20weekends.png)
+
 on Weekends the peak accidents took place between 12 pm and 4 pm.
 
 - Distribution of accidents according to Month.
+
+![](Screenshots/Distribution%20of%20accidents%20according%20to%20month.png)
+
 More number of Accidents were observed in December Month.
 
 I Used Folium library to locate the accidents on world map using the Start_Lat and Start_Lng columns.
+
 - HeatMap of accidents on map
+
+![](Screenshots/heatmap%20of%20accidents%20on%20map.png)
+
+## Summary and Insights
+
+- Miami is the city in US that has observed more number of accidents between 2016-2021.
+- States wise Highest number of accidents were observed in california followed by Florida.
+- The number of accidents is most number of cities is low (0-2000) and in few cities the number of accidents are more.
+- Less than 5 percent of cities have more than 1000 accidents.
+- most accidents are between 0-100 and over 1100 cities have just reported 1 accident.
+- a high percentage of accidents took place more in between 1 pm to 7 pm and the next higher percentage of accidents in between 6 am to 8 am in a week.
+- more Accidents were observed on weekdays and less number of accidents on weekends.
+- on sundays the peak accidents take place between 12 pm to 4 pm.
+- More number of Accidents were observed in December Month.
+- More number of accidents were observed near coastal areas.
