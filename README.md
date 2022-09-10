@@ -21,6 +21,7 @@
 
 - Bar plot of Missing values per Column
 
+
 More number of mssing values were in column "Number".
 
 3. #### Exploratory Data Analysis
