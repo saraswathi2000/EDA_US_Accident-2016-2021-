@@ -21,6 +21,7 @@
 
 - Bar plot of Missing values per Column
 
+![](Screenshots/Bar%20plot%20of%20Missing%20values%20per%20column.png)
 
 More number of mssing values were in column "Number".
 
