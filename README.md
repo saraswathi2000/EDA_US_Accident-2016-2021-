@@ -77,3 +77,6 @@ I Used Folium library to locate the accidents on world map using the Start_Lat a
 - on sundays the peak accidents take place between 12 pm to 4 pm.
 - More number of Accidents were observed in December Month.
 - More number of accidents were observed near coastal areas.
+
+
+### Follow me on <a href="https://www.linkedin.com/in/saraswathi-pandit-806796183/" target="blank"><img align="center" src="https://img.shields.io/badge/-SaraswathiPandit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saraswathi-pandit-806796183/" alt="Saraswathi Pandit" height="20" width="120" /></a>
