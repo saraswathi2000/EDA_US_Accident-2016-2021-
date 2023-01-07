@@ -1,4 +1,5 @@
 # EDA_US_Accident-2016-2021-
+![logo](https://github.com/saraswathi2000/EDA_US_Accident-2016-2021-/blob/main/image_processing20211002-7589-1iywpg6.gif)
 
 - The dataset is taken from kaggle. 
 - The dataset includes information about accidents happend in US between 2016 to 2021
